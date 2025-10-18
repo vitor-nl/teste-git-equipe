@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'lions.apps.LionsConfig',
     'ducks.apps.DucksConfig',
     'pigs.apps.PigsConfig',
+    'frogs.apps.FrogsConfig',
 ]
 
 MIDDLEWARE = [
