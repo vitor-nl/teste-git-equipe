@@ -22,4 +22,5 @@ urlpatterns = [
     path('lions/', include('lions.urls', namespace='lions')),    
     path('ducks/', include('ducks.urls')),
     path('porcos/', include('pigs.urls', namespace='pigs')), 
+    path('frogs/', include('frogs.urls', namespace='frogs')), 
 ]
