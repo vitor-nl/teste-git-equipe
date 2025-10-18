@@ -3,7 +3,7 @@
 /apps/categories/migrations/*
 /apps/cats/__pycache__/*
 /apps/cats/migrations/*
-/apps/dogs/__pycache__/*
+/apps/dogs/__pycache__/*cls
 /apps/dogs/migrations/*
 /apps/frogs/__pycache__/*
 /apps/frogs/migrations/*
